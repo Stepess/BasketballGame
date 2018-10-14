@@ -1,0 +1,43 @@
+p {
+	font-family: Lucida Console; 
+	font-size: 20px; 
+	font-weight: bold;
+}
+
+div {
+	position: absolute;
+}
+
+#counter_div {
+	left: 700px; 
+	top: 100px; 
+	height: 50px;
+}
+
+#status_div {
+	left: 550px; 
+	top: 150px; 
+	height: 50px;
+}
+
+#ball {
+	left: 200px; 
+	top: 400px; 
+	height: 50px; 
+	width: 100px;
+}
+
+#hool {
+	right: 200px; 
+	top: 400px; 
+	height: 50px; 
+	width: 200px;
+}
+
+#ball > img {
+	width: 100px;
+}
+
+#hool > img {
+	width: 200px;
+}
